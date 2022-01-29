@@ -1,0 +1,9 @@
+.TableWrapper {
+  flex: 0 3 88vh;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+.Table {
+  height: 2000px;
+  width: 2000px;
+}

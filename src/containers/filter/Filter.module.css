@@ -1,0 +1,40 @@
+.Filter {
+  flex-shrink: 1;
+  height: 2.5em;
+  border-bottom: 2px solid black;
+  overflow-y: hidden;
+}
+.TitleWrapper {
+  height: 2.5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2em 0 2em;
+}
+
+.TitleButton {
+  color: black;
+  width: 28px;
+  height: 28px;
+  background: url("../../assets/cog-solid.svg") center center no-repeat;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: linear 0.25s transform;
+}
+
+.TitleButton:hover {
+  transform: rotate(90deg);
+}
+
+.FilterItems {
+  padding: 0.5em 3em 0 3em;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-row-gap: 100%;
+  grid-column-gap: 10%;
+  align-items: center;
+}
+.expanded {
+  height: 10em;
+}

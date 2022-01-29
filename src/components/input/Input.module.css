@@ -1,0 +1,16 @@
+.Input {
+  display: block;
+  border-bottom: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: inherit;
+  padding: 0 10px 0 10px;
+}
+.Input:hover,
+.Input:focus {
+  outline: none;
+}
+.Label {
+  padding: 0 10px 0 10px;
+}

@@ -1,0 +1,22 @@
+.LogoImg,
+.LogoStubber {
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+.LogoImg {
+}
+.LogoStubber {
+  background-color: gray;
+  font-weight: 600;
+  font-size: 16px;
+  position: relative;
+}
+.Text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
