@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/favorit/static/css/main.b7229d7d.css",
-    "main.js": "/favorit/static/js/main.1bcf1f27.js",
-    "static/media/cog-solid.svg": "/favorit/static/media/cog-solid.540ab5dc24435d2cb38e.svg",
-    "index.html": "/favorit/index.html",
-    "main.b7229d7d.css.map": "/favorit/static/css/main.b7229d7d.css.map",
-    "main.1bcf1f27.js.map": "/favorit/static/js/main.1bcf1f27.js.map"
+    "main.css": "/SpecTeh-Favorit/static/css/main.baf5bc05.css",
+    "main.js": "/SpecTeh-Favorit/static/js/main.ff39e2b4.js",
+    "static/media/cog-solid.svg": "/SpecTeh-Favorit/static/media/cog-solid.540ab5dc24435d2cb38e.svg",
+    "index.html": "/SpecTeh-Favorit/index.html",
+    "main.baf5bc05.css.map": "/SpecTeh-Favorit/static/css/main.baf5bc05.css.map",
+    "main.ff39e2b4.js.map": "/SpecTeh-Favorit/static/js/main.ff39e2b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7229d7d.css",
-    "static/js/main.1bcf1f27.js"
+    "static/css/main.baf5bc05.css",
+    "static/js/main.ff39e2b4.js"
   ]
 }
